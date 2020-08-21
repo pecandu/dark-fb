@@ -8,7 +8,7 @@ def banner():
 #################################################
 # Facebook : Ahmad Rofii                        #
 #  github  : https://github.com/pecandu/dark-fb #
-#      JANGAN  LUPA  NGOPI   COK                          #
+#      $ JANGAN  LUPA  NGOPI   COK $            #
 #################################################
 	''')
 
