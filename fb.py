@@ -2,7 +2,7 @@
 import requests,re,random
 from mechanize import Browser
 from time import sleep
-#contact: soracyberteam@gmail.com
+#contact: rofii0663@gmail.com
 def banner():
 	print('''
 #################################################
